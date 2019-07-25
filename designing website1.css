@@ -1,0 +1,15 @@
+body
+{
+  border-left:  8px solid white;
+  width: 1366px;
+  height: 768px;
+  margin: 0px;
+  overflow: hidden;
+  background-color: black
+}
+.recent
+{
+  color:white;
+  text-align: center;
+  font-size: 20px;
+}
